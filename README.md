@@ -2,7 +2,6 @@
 git clone https://github.com/totalnerd69/rocsongs.git
 
 # Navigate to the project folder
-cd project-name
-
+cd rocsongs.git
 # Install dependencies
 npm install
